@@ -1,4 +1,3 @@
-  
 {
     "Date": [
         {
@@ -7,28 +6,28 @@
     ],
     "Temperature": [
         {
-            "Value": "12",
+            "Value": "22",
             "Hour": "9:00",
             "Plant": 1
         }
     ],
     "Noise": [
         {
-            "Value": "30",
+            "Value": "60",
             "Hour": "9:00",
             "Plant": 1
         }
     ],
     "CO2": [
         {
-            "Value": "2000",
+            "Value": "1500",
             "Hour": "9:00",
             "Plant": 1
         }
     ],
     "Light": [
         {
-            "Value": "100",
+            "Value": "200",
             "Hour": "9:00",
             "Plant": 1
         }
