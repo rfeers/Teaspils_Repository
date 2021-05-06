@@ -7,28 +7,28 @@
     ],
     "Temperature": [
         {
-            "Value": "22",
+            "Value": "12",
             "Hour": "9:00",
             "Plant": 1
         }
     ],
     "Noise": [
         {
-            "Value": "60",
+            "Value": "30",
             "Hour": "9:00",
             "Plant": 1
         }
     ],
     "CO2": [
         {
-            "Value": "1500",
+            "Value": "2000",
             "Hour": "9:00",
             "Plant": 1
         }
     ],
     "Light": [
         {
-            "Value": "200",
+            "Value": "100",
             "Hour": "9:00",
             "Plant": 1
         }
